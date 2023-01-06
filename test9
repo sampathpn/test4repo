@@ -2,3 +2,4 @@ git reset is used to reset the previous commit
 there will be a delete files from git repo and staging area
 there will be no clue form that you have committed changes
 histroy will also get deleted
+Git pull is used to bring the changes from remote repository and merges the local workspace automatically.
